@@ -1,1 +1,3 @@
 # Resources_for_CP__ITMO
+
+The material has been downloaded from edx channel of ITMO university...
